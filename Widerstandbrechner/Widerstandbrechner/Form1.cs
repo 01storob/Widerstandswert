@@ -18,7 +18,7 @@ namespace Widerstandbrechner
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-
+            //MAZUNNA RAGAZZI
         }
 
         private void btn_Berechnen_Click(object sender, EventArgs e)
