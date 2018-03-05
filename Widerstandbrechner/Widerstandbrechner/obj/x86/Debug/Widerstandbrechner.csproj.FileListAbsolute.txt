@@ -1,0 +1,16 @@
+C:\Users\01storob\AppData\Local\Temporary Projects\Widerstandbrechner\bin\Debug\Widerstandbrechner.exe
+C:\Users\01storob\AppData\Local\Temporary Projects\Widerstandbrechner\bin\Debug\Widerstandbrechner.pdb
+C:\Users\01storob\AppData\Local\Temporary Projects\Widerstandbrechner\obj\x86\Debug\Widerstandbrechner.Form1.resources
+C:\Users\01storob\AppData\Local\Temporary Projects\Widerstandbrechner\obj\x86\Debug\Widerstandbrechner.Properties.Resources.resources
+C:\Users\01storob\AppData\Local\Temporary Projects\Widerstandbrechner\obj\x86\Debug\Widerstandbrechner.csproj.GenerateResource.Cache
+C:\Users\01storob\AppData\Local\Temporary Projects\Widerstandbrechner\obj\x86\Debug\Widerstandbrechner.exe
+C:\Users\01storob\AppData\Local\Temporary Projects\Widerstandbrechner\obj\x86\Debug\Widerstandbrechner.pdb
+h:\eigene dokumente\visual studio 2010\Projects\Widerstandbrechner\Widerstandbrechner\obj\x86\Debug\Widerstandbrechner.exe
+h:\eigene dokumente\visual studio 2010\Projects\Widerstandbrechner\Widerstandbrechner\obj\x86\Debug\Widerstandbrechner.pdb
+H:\Eigene Dokumente\Visual Studio 2010\Projects\Widerstandbrechner\Widerstandbrechner\bin\Debug\Widerstandbrechner.exe
+H:\Eigene Dokumente\Visual Studio 2010\Projects\Widerstandbrechner\Widerstandbrechner\bin\Debug\Widerstandbrechner.pdb
+H:\Eigene Dokumente\Visual Studio 2010\Projects\Widerstandbrechner\Widerstandbrechner\obj\x86\Debug\Widerstandbrechner.Form1.resources
+H:\Eigene Dokumente\Visual Studio 2010\Projects\Widerstandbrechner\Widerstandbrechner\obj\x86\Debug\Widerstandbrechner.Properties.Resources.resources
+H:\Eigene Dokumente\Visual Studio 2010\Projects\Widerstandbrechner\Widerstandbrechner\obj\x86\Debug\Widerstandbrechner.csproj.GenerateResource.Cache
+G:\AUT\Git\Widerstandswert\Widerstandbrechner\Widerstandbrechner\obj\x86\Debug\Widerstandbrechner.exe
+G:\AUT\Git\Widerstandswert\Widerstandbrechner\Widerstandbrechner\obj\x86\Debug\Widerstandbrechner.pdb
